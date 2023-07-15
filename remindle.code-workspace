@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "../workspace"
+		},
+		{
+			"path": "../.devcontainer"
+		},
+		{
+			"path": "../remindle"
 		}
 	],
 	"settings": {}
