@@ -1,12 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "../workspace"
+			"name": "workspace",
+			"path": "."
 		},
 		{
-			"path": "../.devcontainer"
-		},
-		{
+			"name": "remindle",
 			"path": "../remindle"
 		}
 	],
