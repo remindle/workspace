@@ -14,4 +14,4 @@ git add README.md
 git commit -m "feat: first commit"
 git branch -M main
 git remote add origin git@github.com:$1/$2.git
-git push -u origin main -f
+git push -u origin main
